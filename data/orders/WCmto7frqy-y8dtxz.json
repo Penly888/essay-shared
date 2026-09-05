@@ -1,1 +1,1 @@
-{"status":"paid","enc":"x17yqZTblVPsZ7zp.le1tKzoiUywlm86VLNlJvA==.5gBoVEqkH76l61hiBaw=","claimed":false,"totalFee":"9.90","transactionId":"MOCKTX1788601980039","openOrderId":"MOCKOPEN1788601980039","paidAt":"2026-09-05T09:53:02.003Z"}
+{"status":"paid","enc":"x17yqZTblVPsZ7zp.le1tKzoiUywlm86VLNlJvA==.5gBoVEqkH76l61hiBaw=","claimed":true,"totalFee":"9.90","transactionId":"MOCKTX1788601980039","openOrderId":"MOCKOPEN1788601980039","paidAt":"2026-09-05T09:53:02.003Z"}
